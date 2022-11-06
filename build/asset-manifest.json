@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/andyshix.github.io/probarato/static/css/main.945ccd14.css",
+    "main.js": "/andyshix.github.io/probarato/static/js/main.5af2950d.js",
+    "static/js/787.60a54238.chunk.js": "/andyshix.github.io/probarato/static/js/787.60a54238.chunk.js",
+    "static/media/regneg_left.png": "/andyshix.github.io/probarato/static/media/regneg_left.80d13d47ec1be8c21f3e.png",
+    "static/media/fondoComida.png": "/andyshix.github.io/probarato/static/media/fondoComida.903195829e83ff1b7d94.png",
+    "static/media/burgerCarne.jpg": "/andyshix.github.io/probarato/static/media/burgerCarne.5bc92f82f0c09a12a866.jpg",
+    "static/media/alitasBarbacoa.jpg": "/andyshix.github.io/probarato/static/media/alitasBarbacoa.5872424c2f87d3c6b612.jpg",
+    "static/media/berriesBebida.jpg": "/andyshix.github.io/probarato/static/media/berriesBebida.af910d998d49a7286024.jpg",
+    "static/media/alitasMostasa.jpg": "/andyshix.github.io/probarato/static/media/alitasMostasa.9a643cc86c664c35fb80.jpg",
+    "static/media/burgerPollo.jpg": "/andyshix.github.io/probarato/static/media/burgerPollo.c1c07f5fd153135e644d.jpg",
+    "static/media/costillasBarbacoa.jpg": "/andyshix.github.io/probarato/static/media/costillasBarbacoa.93367152e0f5c8c6d747.jpg",
+    "static/media/negocio.jpg": "/andyshix.github.io/probarato/static/media/negocio.5306f0ef3b768b487cfe.jpg",
+    "static/media/comidas.jpg": "/andyshix.github.io/probarato/static/media/comidas.7b639292239bbe02edf3.jpg",
+    "static/media/logo.png": "/andyshix.github.io/probarato/static/media/logo.2ffe3aa282843ee57bb5.png",
+    "static/media/session.jpg": "/andyshix.github.io/probarato/static/media/session.431764302e3398dd6592.jpg",
+    "static/media/logo.svg": "/andyshix.github.io/probarato/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/andyshix.github.io/probarato/index.html",
+    "main.945ccd14.css.map": "/andyshix.github.io/probarato/static/css/main.945ccd14.css.map",
+    "main.5af2950d.js.map": "/andyshix.github.io/probarato/static/js/main.5af2950d.js.map",
+    "787.60a54238.chunk.js.map": "/andyshix.github.io/probarato/static/js/787.60a54238.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.945ccd14.css",
+    "static/js/main.5af2950d.js"
+  ]
+}
